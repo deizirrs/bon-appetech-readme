@@ -24,7 +24,7 @@ Confira a aplicação em produção: [https://bon-appetech.onrender.com](https:/
 - 📱 **Design Responsivo:** interface adaptável para dispositivos móveis e desktops sem perder qualidade de experiência.
 
 ---
-## 📊 Fluxo de Comunicação
+### 📊 Fluxo de Comunicação
 
 ```mermaid
 graph LR
@@ -35,7 +35,7 @@ graph LR
 ````
 ---
 
-## 🚀 Tecnologias
+### 🚀 Tecnologias
 
 | Camada       | Ferramentas                                        |
 | ------------ | -------------------------------------------------- |
@@ -60,8 +60,8 @@ graph LR
     C --> B
     B --> A
 ```
-
-## 🧑‍🍳 Como Usar
+---
+### 🧑‍🍳 Como Usar
 
 No [Bon AppéTech](https://bon-appetech.onrender.com), experimente:
 
@@ -73,9 +73,9 @@ E veja as sugestões criadas pela IA em tempo real!
 
 ---
 
-## 📣 Acesso Exclusivo ao repositório do projeto
+### 📣 Acesso Exclusivo ao Repositório do Projeto
 
-Este projeto está em um **repositório privado** para manter nosso código seguro e exclusivo. Se você é recrutador e deseja avaliar o código:
+Este projeto está em um **repositório privado** para manter o código seguro e exclusivo. Se você é recrutador e deseja avaliar o código:
 
 * Envie um e-mail para **[deizianerodriguesdev@hotmail.com](mailto:deizianerodriguesdev@hotmail.com)**
    
