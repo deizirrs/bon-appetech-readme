@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Acesse o site:
+## 🌐 Acesse o site
 
 Confira a aplicação em produção: [https://bon-appetech.onrender.com](https://bon-appetech.onrender.com/)
 
@@ -77,7 +77,7 @@ E veja as sugestões criadas pela IA em tempo real!
 
 Este projeto está em um **repositório privado** para manter nosso código seguro e exclusivo. Se você é recrutador e deseja avaliar o código:
 
-* Envie um e-mail para **[deiziane.rodrigues@example.com](mailto:deizianerodriguesdev@hotmail.com)**
+* Envie um e-mail para **[deizianerodriguesdev@hotmail.com](mailto:deizianerodriguesdev@hotmail.com)**
    
 * Ou conecte-se no LinkedIn e mande uma mensagem: **[@deizianer](https://www.linkedin.com/in/deizianer/).**
 
@@ -85,9 +85,9 @@ Prometo retorno rápido com o convite de acesso! 🚀
 
 ---
 
-## 📬 Contato
+## ✨ Desenvolvido por
 
-Desenvolvido por **Deiziane Rodrigues**
+**[Deiziane Rodrigues](https://www.linkedin.com/in/deizianer/).**
 
 ---
 
